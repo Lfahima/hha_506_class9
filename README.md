@@ -2,9 +2,11 @@
 this is a test repo as a other example 
 
 
-## some pythin example code:
+## some python example code:
 ```
 var = 1
 ```
+## this is another example 
+
 
 
